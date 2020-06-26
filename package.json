@@ -1,7 +1,7 @@
 {
   "_args": [
     [
-      "tds-reactcontextmenu@1.0.5",
+      "tds-reactcontextmenu@1.0.6",
       "F:\\RDTable"
     ]
   ],
@@ -32,11 +32,11 @@
     "name": "Dhana Shekhar Tontanahal"
   },
   "bugs": {
-    "url": "https://github.com/DhanaTontanahal/reactContextMenu/issues"
+    "url": "https://github.com/DhanaTontanahal/react-context-menu/issues"
   },
   "deprecated": false,
   "description": "React Context Menu",
-  "homepage": "https://github.com/DhanaTontanahal/reactContextMenu#readme",
+  "homepage": "https://github.com/DhanaTontanahal/react-context-menu#readme",
   "keywords": [
     "react",
     "context",
@@ -47,7 +47,7 @@
   "name": "tds-reactcontextmenu",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DhanaTontanahal/reactContextMenu.git"
+    "url": "git+https://github.com/DhanaTontanahal/react-context-menu.git"
   },
-  "version": "1.0.5"
+  "version": "1.0.6"
 }

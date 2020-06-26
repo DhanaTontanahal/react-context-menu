@@ -3,6 +3,14 @@ A Simple React Context Menu wrapped in a React component
 
 npm i tds-reactcontextmenu
 
+#Demo Screenshots:
+
+![alt text](https://github.com/DhanaTontanahal/react-grid-/blob/master/context-menu-demo.PNG)
+
+
+![alt text](https://github.com/DhanaTontanahal/react-grid-/blob/master/context-menu-function-call.PNG)
+
+
 #Usage:
 ```
 
@@ -54,7 +62,13 @@ export default MyWidget;
 
 
 ```
+
 #Column context menu usage in react table.
+
+->Refer the below link for usage:
+
+
+
 
 ![alt text](https://github.com/DhanaTontanahal/react-grid-/blob/master/table1.JPG)
 
