@@ -10,8 +10,10 @@ A Simple React Context Menu wrapped in a React component
 ![alt text](https://github.com/DhanaTontanahal/react-context-menu/blob/master/context-menu-function-call.PNG)
 
 
+https://www.npmjs.com/package/tds-reactcontextmenu
 
 npm i tds-reactcontextmenu
+
 
 NOTE:
 We are using Glyphicons from react-bootstrap
@@ -21,7 +23,9 @@ Put this in package.json
  
  Bootstrap 4 doesnot support Glyphicon
  
+ 
 #Usage:
+
 ```
 
 import React, { Component } from 'react'
@@ -73,9 +77,14 @@ export default MyWidget;
 
 ```
 
+
 #Column context menu usage in react table.
 
+
 ->Refer the below link for usage:
+
+https://github.com/DhanaTontanahal/react-grid
+
 
 
 
