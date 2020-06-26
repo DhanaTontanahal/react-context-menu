@@ -1,7 +1,6 @@
 # reactContextMenu
 A Simple React Context Menu wrapped in a React component
 
-npm i tds-reactcontextmenu
 
 #Demo Screenshots:
 
@@ -11,6 +10,17 @@ npm i tds-reactcontextmenu
 ![alt text](https://github.com/DhanaTontanahal/react-grid-/blob/master/context-menu-function-call.PNG)
 
 
+
+npm i tds-reactcontextmenu
+
+NOTE:
+We are using Glyphicons from react-bootstrap
+Use bootstrap version less than 4
+Put this in package.json
+ ```"react-bootstrap": "0.33.1"```
+ 
+ Bootstrap 4 doesnot support Glyphicon
+ 
 #Usage:
 ```
 
