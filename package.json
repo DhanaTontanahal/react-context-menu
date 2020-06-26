@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      "tds-reactcontextmenu@1.0.5",
+      "F:\\RDTable"
+    ]
+  ],
+  "_from": "tds-reactcontextmenu@1.0.5",
+  "_id": "tds-reactcontextmenu@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-oKE02njk55MU0HI6CuyOoqgmgmAlR9S4LVWsoINjZmLXe9o3z5edG7RJ1kLJ17Y8ZFctvmydgNyy1SfNbvaRNw==",
+  "_location": "/tds-reactcontextmenu",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "tds-reactcontextmenu@1.0.5",
+    "name": "tds-reactcontextmenu",
+    "escapedName": "tds-reactcontextmenu",
+    "rawSpec": "1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "1.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tds-reactcontextmenu/-/tds-reactcontextmenu-1.0.5.tgz",
+  "_shasum": "6f91c3dd038dfaa10f4ef891ec83fcd1b4a9b7d9",
+  "_spec": "1.0.5",
+  "_where": "F:\\RDTable",
+  "author": {
+    "name": "Dhana Shekhar Tontanahal"
+  },
+  "bugs": {
+    "url": "https://github.com/DhanaTontanahal/reactContextMenu/issues"
+  },
+  "deprecated": false,
+  "description": "React Context Menu",
+  "homepage": "https://github.com/DhanaTontanahal/reactContextMenu#readme",
+  "keywords": [
+    "react",
+    "context",
+    "menu"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "tds-reactcontextmenu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhanaTontanahal/reactContextMenu.git"
+  },
+  "version": "1.0.5"
+}
