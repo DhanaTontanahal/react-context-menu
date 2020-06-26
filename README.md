@@ -4,10 +4,10 @@ A Simple React Context Menu wrapped in a React component
 
 #Demo Screenshots:
 
-![alt text](https://github.com/DhanaTontanahal/react-grid-/blob/master/context-menu-demo.PNG)
+![alt text](https://github.com/DhanaTontanahal/react-context-menu/blob/master/context-menu-demo.PNG)
 
 
-![alt text](https://github.com/DhanaTontanahal/react-grid-/blob/master/context-menu-function-call.PNG)
+![alt text](https://github.com/DhanaTontanahal/react-context-menu/blob/master/context-menu-function-call.PNG)
 
 
 
